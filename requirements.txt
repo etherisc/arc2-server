@@ -1,0 +1,5 @@
+shapely
+tifffile >= 2021.6.6
+pyproj >= 3.1.0
+zarr >= 2.8.3
+Flask >= 1.1.2
